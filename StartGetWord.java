@@ -17,7 +17,7 @@ public class StartGetWord {
 				System.out.println(string);
 			}				
 		}else{
-			System.out.println("ÇëÊäÈëandroidÎÄµµÂ·¾¶");
+			System.out.println("please input path!");
 		}
 	}
 	
