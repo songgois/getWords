@@ -3,3 +3,5 @@
 ####可修改正则表达式提取规则以符合您的要求
 ####使用了jsoup作为html文档解析器
 ####https://github.com/jhy/jsoup
+####以及使用jsoup从有道网站获得中文解释
+
